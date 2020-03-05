@@ -1,0 +1,11 @@
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\obj\Debug\Forms.vbprojAssemblyReference.cache
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\obj\Debug\Forms.Resources.resources
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\obj\Debug\Forms.vbproj.GenerateResource.cache
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\bin\Debug\Forms.exe
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\bin\Debug\Forms.pdb
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\bin\Debug\Forms.xml
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\obj\Debug\Forms.exe
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\obj\Debug\Forms.xml
+C:\Users\Trizzia Loren\source\repos\Forms\Forms\obj\Debug\Forms.pdb
